@@ -1,0 +1,5 @@
+echo_1 - Basic echo client functionality. Has simple error handling and connects to a given server.
+
+echo_2 - Basic XML functionality. Messages are encoded and decoded.
+
+communications - Rewrite in Twisted. Full extensible XML functionality. SSL implemented.
